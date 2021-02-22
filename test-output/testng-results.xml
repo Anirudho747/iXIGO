@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-22T07:56:34 GMT-08:00" name="Default suite" finished-at="2021-02-22T07:57:07 GMT-08:00" duration-ms="32732">
+    <groups>
+    </groups>
+    <test started-at="2021-02-22T07:56:34 GMT-08:00" name="Default test" finished-at="2021-02-22T07:57:07 GMT-08:00" duration-ms="32732">
+      <class name="testCases.CommonCases">
+        <test-method signature="everyCase()[pri:0, instance:testCases.CommonCases@524d6d96]" started-at="2021-02-22T07:56:34 GMT-08:00" name="everyCase" finished-at="2021-02-22T07:57:07 GMT-08:00" duration-ms="32671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- everyCase -->
+      </class> <!-- testCases.CommonCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
